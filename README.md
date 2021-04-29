@@ -1,1 +1,3 @@
 # dotnetdemo
+Jenkins
+Docker
