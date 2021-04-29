@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "vOlmBW6L4gW92DFa6sWwipK0BoElude8bg5+xbYTE84JQX1ePfl2iZx1lYzRurSDhQ6gBhW9o98j/vmpgcgU5g==",
+  "success": true,
+  "projectFilePath": "/home/jenkinsslave/test/dotnet-docker/samples/aspnetapp/aspnetapp/aspnetapp.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}

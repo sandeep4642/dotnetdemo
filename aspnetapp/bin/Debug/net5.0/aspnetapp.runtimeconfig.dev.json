@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/jenkinsslave/.dotnet/store/|arch|/|tfm|",
+      "/home/jenkinsslave/.nuget/packages"
+    ]
+  }
+}
