@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jenkinsslave/test/dotnet-docker/samples/aspnetapp/aspnetapp/aspnetapp.csproj": {}
+    "/home/jenkinsslave/dotnetdemo/aspnetapp/aspnetapp.csproj": {}
   },
   "projects": {
-    "/home/jenkinsslave/test/dotnet-docker/samples/aspnetapp/aspnetapp/aspnetapp.csproj": {
+    "/home/jenkinsslave/dotnetdemo/aspnetapp/aspnetapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jenkinsslave/test/dotnet-docker/samples/aspnetapp/aspnetapp/aspnetapp.csproj",
+        "projectUniqueName": "/home/jenkinsslave/dotnetdemo/aspnetapp/aspnetapp.csproj",
         "projectName": "aspnetapp",
-        "projectPath": "/home/jenkinsslave/test/dotnet-docker/samples/aspnetapp/aspnetapp/aspnetapp.csproj",
+        "projectPath": "/home/jenkinsslave/dotnetdemo/aspnetapp/aspnetapp.csproj",
         "packagesPath": "/home/jenkinsslave/.nuget/packages/",
-        "outputPath": "/home/jenkinsslave/test/dotnet-docker/samples/aspnetapp/aspnetapp/obj/",
+        "outputPath": "/home/jenkinsslave/dotnetdemo/aspnetapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jenkinsslave/.nuget/NuGet/NuGet.Config"
